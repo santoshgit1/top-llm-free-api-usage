@@ -22,6 +22,7 @@ This lists various services that provide free access or credits towards API-base
   - [Cohere](#cohere)
   - [GitHub Models](#github-models)
   - [Cloudflare Workers AI](#cloudflare-workers-ai)
+    
 - [Providers with trial credits](#providers-with-trial-credits)
   - [Fireworks](#fireworks)
   - [Baseten](#baseten)
